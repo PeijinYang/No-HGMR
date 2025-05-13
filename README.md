@@ -1,29 +1,3 @@
-# GHCF
-
-This is our implementation of the paper:
-
-*Chong Chen, Weizhi Ma, Min Zhang, Zhaowei Wang, Xiuqiang He, Chenyang Wang, Yiqun Liu and Shaoping Ma. 2021. [Graph Heterogeneous Multi-Relational Recommendation.](https://chenchongthu.github.io/files/AAAI_GHCF.pdf) 
-In AAAI'21.*
-
-**Please cite our AAAI'21 paper if you use our codes. Thanks!**
-
-```
-@inproceedings{chen2021graph,
-  title={Graph Heterogeneous Multi-Relational Recommendation},
-  author={Chen, Chong and Ma, Weizhi and Zhang, Min and Wang, Zhaowei and He, Xiuqiang and Wang, Chenyang and Liu, Yiqun and Ma, Shaoping},
-  booktitle={Proceedings of AAAI},
-  year={2021},
-}
-```
-
-## Example to run the codes		
-
-Train and evaluate our model:
-
-```
-python GHCF.py
-```
-
 ## Reproducibility
 
 ```
